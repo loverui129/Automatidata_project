@@ -1,4 +1,4 @@
-# project_NYL_Taxi_Fare_Prediction
+# Project_NYL_Taxi_Fare_Prediction
 Regression Analysis:
 1.Using multiple regression to predict taxi fares.
 2.The purpose of this project is to demostrate knowledge of EDA and a multiple linear regression model.
